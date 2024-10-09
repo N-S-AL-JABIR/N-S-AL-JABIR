@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **c,c++**
+- 💬 Ask me about **c,c++,python**
 
 - 📫 How to reach me **n.s.al.jabir@gmail.com**
 
