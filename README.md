@@ -19,7 +19,7 @@
 <a href="https://codeforces.com/profile/al_jabir_eee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="al_jabir_eee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/96nx3m1lid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="96nx3m1lid" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nsaljyikz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nsaljyikz" height="30" width="40" /></a>
-<a href="https://judge.beecrowd.com/en/profile/839461" target="blank"><img align="center" src="https://raw.githubusercontent.com/N-S-AL-JABIR/git-photo/refs/heads/main/beecrowd.ico?token=GHSAT0AAAAAACYUQH3VCKQKZCM55SV4IBHWZYGJNLQ" alt="nsaljyikz" height="30" width="40" /></a>
+<a href="https://judge.beecrowd.com/en/profile/839461" target="blank"><img align="center" src="https://github.com/N-S-AL-JABIR/git-photo/blob/main/beecrowd.png?raw=true" alt="nsaljyikz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
