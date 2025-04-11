@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/N-S-AL-JABIR/git-photo/blob/main/1594835668489.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-s-al-jabir&label=Profile%20views&color=0e75b6&style=flat" alt="n-s-al-jabir" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **C,C++,python,HTML,CSS**
 
